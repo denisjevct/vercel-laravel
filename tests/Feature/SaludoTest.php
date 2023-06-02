@@ -22,6 +22,6 @@ class SaludoTest extends TestCase
     {
         $view = $this->view('saludo');
 
-        $view->assertSee('Juan');
+        $view->assertSee('Pepe');
     }
 }
