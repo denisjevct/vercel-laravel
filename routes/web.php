@@ -19,5 +19,5 @@ Route::get('/', function () {
 
 
 Route::get('/saludo', function () {
-    return "Hola mundo como estas";
+    return view('saludo');
 });
