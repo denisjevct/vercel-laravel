@@ -1,1 +1,1 @@
-<h1>Buenos días Juan hoy</h1>
+<h1>Buenos días Juan hoy como están</h1>
